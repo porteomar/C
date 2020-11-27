@@ -1,6 +1,4 @@
-# CSCI3101
-Labs
-Omar Porte (porte657) porte657@umn.edu
+
 
 
 This program makes use of a 4D array, money[12][7][10][8]. 12 is the number of months in a year,
